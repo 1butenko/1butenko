@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=1butenko.1butenko&"  />
-</div>
-
 ###
 
 <h1 align="left">Hi there, I'm Ihor Butenko 👋</h1>
