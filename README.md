@@ -4,14 +4,6 @@
 
 ###
 
-<h3 align="left">📚 A bit about me</h3>
-
-###
-
-<p align="left">My name’s Ihor. I started coding at 10 because cool superheroes need their origin stories, right? From web development to diving into Deep Learning, I’ve been crafting my tech superpowers ever since. Still learning, still innovating in Deep Learning — because who needs a suit of armor when you’ve got lines of code?</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
